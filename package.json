@@ -1,0 +1,11 @@
+{
+  "name": "project_professional",
+  "version": "1.0.0",
+  "description": "first steps for learning backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "sairaj with chai",
+  "license": "ISC"
+}

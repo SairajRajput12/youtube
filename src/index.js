@@ -30,7 +30,8 @@ const app = express();
 })()
 */ 
 
-// approach 2: 
+// approach 2:
+// it is promise 
 connectDB()
 .then(() => {
     app.listen(process.env.PORT || 8000, () => {
